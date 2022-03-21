@@ -44,8 +44,6 @@ spec:
           value: namespace1
         - name: ENV_RUM_ORIGIN_IP_HEADER
           value: X-Forwarded-For
-        - name: DK_INSTALL_IPDB
-          value: iploc
         - name: TZ
           value: Asia/Shanghai
         - name: HOSTIP
